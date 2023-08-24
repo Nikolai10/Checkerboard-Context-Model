@@ -27,7 +27,7 @@ This project is based on [TensorFlow Compression (TFC)](https://github.com/tenso
 This project was inspired by [@JiangWeibeta's PyTorch reference implementation](https://github.com/JiangWeibeta/Checkerboard-Context-Model-for-Efficient-Learned-Image-Compression),
 but differs in its technical design/organization.
 
-This project is joint work with @X, who conducted his Forschungspraxis at TUM with me.
+This project is joint work with [Yang Zhang (@Yango4you)](https://github.com/Yango4you), who conducted his Forschungspraxis at TUM with me.
 
 ## MS2020 (ChARM) vs. MS2020 (Checkerboard)
 
