@@ -37,7 +37,7 @@ The relative speedup was calculated on an A100 GPU using GPU warm-up based on th
 **Note that this is achieved despite using a significantly smaller model size** (26.4M vs. 116.3M).
 
 <p align="center">
-    <img src="./res/doc/figures/ms2020_ChARM_vs_ms2020_Checkerboard.png" alt="Image description" width="50%" />
+    <img src="./res/doc/figures/ms2020_ChARM_vs_ms2020_Checkerboard.png" alt="Image description" width="60%" />
 </p>
 
 ## Pre-trained models
